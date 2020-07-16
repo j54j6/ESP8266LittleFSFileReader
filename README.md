@@ -7,8 +7,9 @@ Open Serial-Monitor (baudrate 115200) or simply change it^^
 
 You will see your data Structure like this:
 
+[code]
 Start
-|- Hallo.txt -> 0Byte
+|- Hallo.txt -> 0Byte 
 |- alpha.txt -> 0Byte
 |- beta.txt -> 591Byte
 |- dsadsa.txt -> 0Byte
@@ -23,3 +24,4 @@ Start
 |--| testDir2
    |- configFile1.txt -> 591Byte
 |- tester.txt -> 591Byte
+[/code]
