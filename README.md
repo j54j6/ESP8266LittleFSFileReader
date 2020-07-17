@@ -9,18 +9,18 @@ You will see your data Structure like this:
  Click for RAW View to see the "correct" Layout
  
  
-"|- Hallo.txt -> 0Byte" 
-"|- alpha.txt -> 0Byte"
-"|- beta.txt -> 591Byte"
-"|- dsadsa.txt -> 0Byte"
-"|--| testDir1"
-   "|- anotherFile.txt -> 0Byte"
-   "|--| inDir1"
-      "|--| data3"
-         "|--| anotherDir"
-            "|- file.txt -> 0Byte"
-            "|- file.txt -> 0Byte"
-  " |- file.txt -> 0Byte"
-"|--| testDir2"
-   "|- configFile1.txt -> 591Byte"
-"|- tester.txt -> 591Byte"
+|- Hallo.txt -> 0Byte"
+|- alpha.txt -> 0Byte
+|- beta.txt -> 591Byte
+|- dsadsa.txt -> 0Byte
+|--| testDir1
+   |- anotherFile.txt -> 0Byte
+   |--| inDir1
+      |--| data3
+         |--| anotherDir
+            |- file.txt -> 0Byte
+            |- file.txt -> 0Byte
+   |- file.txt -> 0Byte
+|--| testDir2
+   |- configFile1.txt -> 591Byte
+|- tester.txt -> 591Byte
