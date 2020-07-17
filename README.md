@@ -5,8 +5,8 @@ Just Copy and Paste the main.cpp
 
 Open Serial-Monitor (baudrate 115200) or simply change it^^
 
-You will see your data Structure like this:
- Click for RAW View to see the "correct" Layout
+You will see your data Structure like this: 
+ Click "<a href="https://raw.githubusercontent.com/j54j6/ESP8266LittleFSFileReader/master/README.md">RAW View</a>" to see the "correct" Layout
  
  
 |- Hallo.txt -> 0Byte"
